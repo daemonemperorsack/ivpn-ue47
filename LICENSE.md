@@ -1,4 +1,4 @@
-
+Mullvad advanced App: DNS-leak-protection & auto-connect is the best Mullvad app, featuring DNS-leak-protection and auto-connect. Secure, fast, and optimized for privacy.
 
 
 
